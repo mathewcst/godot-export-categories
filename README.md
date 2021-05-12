@@ -19,6 +19,9 @@ Just copy the `export_categories` folder into your project's `addons` folder.
 
 Or copy the whole `addons` folder and paste it into your project's folder.
 
+Then just enable it on
+`Project > Project Settings > Plugins > ExportCategories`.
+
 ## Usage
 
 Export a var (of any type, if you want) with the `_c_` prefix. That's it.
