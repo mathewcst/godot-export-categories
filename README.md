@@ -2,7 +2,7 @@
 
 A very hacky way to separate script variables in categories.
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot/screenshot.png)
 
 This is not optimized at all, it's just something I put together to help me
 separate my `Script Variables` into "sections".
